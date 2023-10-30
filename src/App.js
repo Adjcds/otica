@@ -1,19 +1,18 @@
 import React from 'react';
 import Topo from './componentes/Topo';
 import SecaoCapa from './componentes/SecaoCapa';
-import SecaoContato from './componentes/SecaoContato';
 import SecaoProdutos from './componentes/SecaoProdutos';
 import SecaoSobre from './componentes/SecaoSobre';
-
+import SecaoContato from './componentes/SecaoContato';
 
 function App() {
   return (
     <div>
       <Topo />
       <SecaoCapa />
-      <SecaoContato />
       <SecaoProdutos />
       <SecaoSobre />
+      <SecaoContato />
     </div>
   );
 }
