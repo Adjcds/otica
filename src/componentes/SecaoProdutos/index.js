@@ -10,26 +10,36 @@ export default function SecaoProdutos() {
         <div className='container-produtos'>
           <div className='box-produto'>
             <h4>Óculos de grau</h4>
-            <img src='assets/oculos01.png' title='Óculos de grau' alt='4 óculos de grau de cores diferentes'/>
+            <img src='assets/oculos01.png' title='Óculos de grau' alt='6 óculos de grau de cores diferentes'/>
             <p>R$ 500,00</p>
           </div>
           <div className='box-produto'>
             <h4>Óculos transition</h4>
-            <img src='assets/oculos02.png' title='Óculos de grau' alt='4 óculos de grau de cores diferentes'/>
+            <img src='assets/oculos02.png' title='Óculos de grau' alt='6 óculos de grau de cores diferentes'/>
             <p>R$ 750,00</p>
           </div>
           <div className='box-produto'>
             <h4>Óculos de sol</h4>
-            <img src='assets/oculos03.png' title='Óculos de grau' alt='4 óculos de grau de cores diferentes'/>
+            <img src='assets/oculos03.png' title='Óculos de grau' alt='6 óculos de grau de cores diferentes'/>
             <p>R$ 700,00</p>
           </div>
           <div className='box-produto'>
             <h4>Óculos infantil</h4>
-            <img src='assets/oculos04.png' title='Óculos de grau' alt='4 óculos de grau de cores diferentes'/>
+            <img src='assets/oculos04.png' title='Óculos de grau' alt='6 óculos de grau de cores diferentes'/>
             <p>R$ 500,00</p>
           </div>
+          <div className='box-produto'>
+        <h4>Óculos esportivos</h4>
+        <img src='assets/oculos05.png' title='Óculos esportivos'  alt='6 óculos de grau de cores diferentes'/>
+        <p>R$ 600,00</p>
         </div>
-
+        <div className='box-produto'>
+        <h4>Óculos de leitura</h4>
+        <img src='assets/oculos06.png' title='Óculos de leitura' alt='6 óculos de grau de cores diferentes'/>
+         <p>R$ 300,00</p>
+        </div>
+        </div>
+       
         <p>Todos os nossos produtos incluem:</p>
 
         <ul>
